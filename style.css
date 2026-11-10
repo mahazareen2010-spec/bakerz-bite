@@ -9,6 +9,7 @@
     --text-color--: #3b123c;
     --purple: #6f3fa8;
     --text-color: #120b18;
+  
 }
 
 
@@ -1604,9 +1605,10 @@ footer hr {
 
 .gallery-section {
     padding: 85px 6%;
-    background:
+    /* background:
         radial-gradient(ellipse at 50% 0%, rgba(111, 63, 168, 0.16), transparent 55%),
-        var(--text-color);
+        var(--text-color); */
+      background-color: #120b18 !important;
     overflow: hidden;
 }
 
